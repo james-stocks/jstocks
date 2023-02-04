@@ -1,3 +1,7 @@
+* {
+  background-color: #d4d4b0;
+}
+
 .App {
   text-align: center;
 }
@@ -5,6 +9,11 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.App-blurb {
+  text-align: left;
+  margin: 40px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
