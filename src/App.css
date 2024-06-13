@@ -1,5 +1,9 @@
 * {
-  background-color: #d4d4b0;
+  background-color: #b4b490;
+}
+
+h1 {
+  font-size: 40px;
 }
 
 .App {
@@ -13,7 +17,7 @@
 
 .App-blurb {
   text-align: left;
-  margin: 40px;
+  margin: 100px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
